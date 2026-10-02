@@ -1,1 +1,1 @@
-print("First program")
+print("First program for python traininigs")
